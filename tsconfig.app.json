@@ -18,8 +18,8 @@
     /* Paths */
     "baseUrl": "./src/",
     "paths": {
-      "@app-components": ["components"],
-      "@app-components/*": ["components/*"]
+      "@app-assets": ["assets"],
+      "@app-assets/*": ["assets/*"]
     },
 
     /* Linting */
